@@ -1,2 +1,4 @@
 # hello-world
-My initial foray into Git HAS TO be a Hello World!
+My initial foray into Git MUST be a Hello World!
+Aspiring coder and game dev seeks same for intimate coding trysts :p
+I've decided to include the fact that I'm a total newb. 
